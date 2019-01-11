@@ -1,0 +1,10 @@
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\bin\Debug\Chapter2p1.exe.config
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\bin\Debug\Chapter2p1.exe
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\bin\Debug\Chapter2p1.pdb
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.csprojAssemblyReference.cache
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.Form1.resources
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.Properties.Resources.resources
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.csproj.GenerateResource.cache
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.csproj.CoreCompileInputs.cache
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.exe
+C:\Users\Campber1\Documents\C#\headfirst\Chapter2p1\Chapter2p1\obj\Debug\Chapter2p1.pdb
